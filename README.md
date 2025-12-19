@@ -99,7 +99,7 @@ I like working close to the core: APIs, databases, containers, execution environ
 ## 🤝 Let’s Connect
 
 - 📧 Email: kprateek283@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/prateek-kumar  
+- 💼 LinkedIn: https://www.linkedin.com/in/prateek-kumar-400a14257
 - 🧑‍💻 GitHub: https://github.com/Kprateek283  
 
 ---
