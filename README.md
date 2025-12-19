@@ -81,7 +81,7 @@ I like working close to the core: APIs, databases, containers, execution environ
 
 ## 🏆 Competitive Programming & Achievements
 
-- Codeforces: [1702 (Expert)](https://codeforces.com/profile/prats2853)
+- Codeforces: [1706 (Expert)](https://codeforces.com/profile/prats2853)
 - Winner, **CodeHunt 2025 (IIIT Manipur)**
 - Finalist, **Smart India Hackathon 2023**
 - Top 1% — NPTEL Software Testing, Industrial IoT
