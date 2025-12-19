@@ -81,7 +81,7 @@ I like working close to the core: APIs, databases, containers, execution environ
 
 ## 🏆 Competitive Programming & Achievements
 
-- **Codeforces Rating:** 1702 (Expert)
+- Codeforces: [1702 (Expert)](https://codeforces.com/profile/Kprateek283)
 - Winner, **CodeHunt 2025 (IIIT Manipur)**
 - Finalist, **Smart India Hackathon 2023**
 - Top 1% — NPTEL Software Testing, Industrial IoT
