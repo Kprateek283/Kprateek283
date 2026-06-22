@@ -1,107 +1,130 @@
 # Hi, I'm Prateek Kumar 👋
 
-Final-year CSE student @ **IIIT Manipur**  
-Backend-focused engineer who enjoys building **reliable systems**, **secure backends**, and **production-ready infrastructure** — with growing experience in **AI-assisted systems (RAG, LLMs)**.
+Software Engineer focused on backend systems, Linux-based infrastructure, and low-latency software.
 
-I like working close to the core: APIs, databases, containers, execution environments, and system boundaries.
+I enjoy building systems where performance, reliability, and correctness matter — from distributed backend services and real-time communication platforms to low-latency trading infrastructure and systems software.
 
-**Open to backend / full-stack internships (PPO preferred)**  
-Reach out if you're building something real and technical.
+## Current Focus
 
----
-
-## What I Work With
-
-**Languages**
-- Go, Python, C++, JavaScript, C
-
-**Backend & Systems**
-- FastAPI, Node.js, Express
-- REST APIs, Microservices
-- gRPC, WebSockets
-- Secure code execution, async workflows
-
-**Databases & Storage**
-- PostgreSQL, MongoDB
-- Ent ORM
-- Redis, FAISS (vector search)
-
-**Infra & DevOps**
-- Docker (container security, isolation)
-- Linux
-- CI/CD
-- AWS (EC2, ECR)
-
-**AI / Applied ML**
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Vector databases
-- Local LLMs (Ollama)
+* Building high-performance backend systems in Go and C++
+* Exploring Linux networking, concurrency, and systems programming
+* Contributing to open-source infrastructure projects
+* Learning low-latency systems design and trading infrastructure
 
 ---
 
-## Selected Projects
+## Tech Stack
 
-### Agentic NPC Framework
-**Go + Python | WebSockets | gRPC | PostgreSQL | Redis**
+### Languages
 
-- Built a **two-service backend architecture** enabling real-time NPC interactions.
-- Implemented **stateful NPC behavior**, quest logic, and memory persistence.
-- Designed low-latency inter-service communication using **gRPC**.
-- Focused on modularity, scalability, and clean system boundaries.
+C++ • Go • Python • JavaScript • Bash
 
-GitHub: https://github.com/Kprateek283/agentic-npc-project
+### Systems Programming
+
+Linux • POSIX Threads • Socket Programming • TCP/IP • epoll • Lock-Free Programming • Concurrent Systems
+
+### Backend Engineering
+
+Go (Gin/Chi) • FastAPI • Node.js • Express.js • REST APIs • gRPC • WebSockets • RabbitMQ
+
+### Databases & Storage
+
+PostgreSQL • Redis • MongoDB
+
+### Infrastructure & Tools
+
+Docker • AWS EC2 • Git • SSH • Neovim
+
+### AI Systems
+
+FAISS • LangChain • LangGraph
 
 ---
 
-### Online Judge System
-**Node.js | Docker | AWS | Vercel**
+## Featured Projects
 
-- Built a **high-performance online judge** with compilation + verdict generation under **2 seconds**.
-- **Secured and containerized** the code compiler using Docker for safe execution.
-- Deployed backend and compiler services on AWS, frontend on Vercel.
-- Designed for real users, not toy workloads.
+### Low-Latency High-Frequency Trading Ecosystem
 
-🔗 Live: https://devdecider.prateekdev.xyz  
-🔗 GitHub: https://github.com/Kprateek283/OnlineJudge
+**C++20 • epoll • Lock-Free Queues • Memory Pools**
+
+* Built a complete trading ecosystem consisting of a Trading Firm Simulator, Exchange Gateway, Risk Engine, and Matching Engine.
+* Implemented thread-per-shard network ingestion using Linux `SO_REUSEPORT` and `epoll`.
+* Built lock-free SPSC queues using C++ atomics and cache-line-aware memory layouts.
+* Achieved sustained throughput exceeding **10 million messages per second**.
+* Developed cycle-accurate telemetry using `RDTSCP` hardware timestamping.
+
+🔗 Repository: github.com/Kprateek283/High-Frequency-Trading-Engine
 
 ---
 
-### InsightFlow — Secure AI Q&A System
-**FastAPI | FAISS | AES-256 | RAG**
+### Distributed Agentic NPC Framework
 
-- Developed a **multi-user AI Q&A backend** with encrypted document storage.
-- Implemented **AES-256 encryption** for data at rest.
-- Achieved **sub-second retrieval** using FAISS-based vector search.
-- Designed clean ingestion → retrieval → response pipelines.
+**Go • Python • gRPC • PostgreSQL • Redis**
 
-🔗 GitHub: https://github.com/Kprateek283/Insightflow
+* Built a distributed backend architecture for AI-driven NPC interactions.
+* Implemented persistent memory, quest systems, and relationship tracking.
+* Designed real-time communication using WebSockets and gRPC.
+* Integrated retrieval-based and agent-based AI workflows.
+
+🔗 Repository: github.com/Kprateek283/agentic-npc-project
+
+---
+
+### Containerized Online Judge
+
+**Node.js • Docker • AWS**
+
+* Built a secure multi-language online judge supporting C, C++, Java, and Python.
+* Implemented Docker-based sandbox isolation and resource constraints.
+* Designed concurrent execution pipelines and automated evaluation workflows.
+
+🔗 Repository: github.com/Kprateek283/OnlineJudge
+
+---
+
+## Open Source
+
+### liburing
+
+Contributor to Linux `io_uring` userspace library.
+
+* Upstreamed a multishot echo server example reviewed and merged by Jens Axboe.
+* Additional contribution under review.
 
 ---
 
 ## Competitive Programming & Achievements
 
-- Codeforces: [1706 (Expert)](https://codeforces.com/profile/prats2853)
-- Winner, **CodeHunt 2025 (IIIT Manipur)**
-- Finalist, **Smart India Hackathon 2023**
-- Top 1% — NPTEL Software Testing, Industrial IoT
-- Top 5% — NPTEL Data Analysis with Python
+* Codeforces Expert (**1706**)
+* Winner — CodeHunt 2025 (IIIT Manipur)
+* Smart India Hackathon 2023 National Finalist
+* NPTEL Top 1% — Software Testing
+* NPTEL Top 1% — Industrial IoT
+* NPTEL Top 5% — Data Analytics with Python
+* NPTEL Top 5% — Human Computer Interaction
 
 ---
 
-## Background
+## Education
 
-- **B.Tech CSE (2022–2026)** — IIIT Manipur  
-- Coursework: DSA, OS, CN, DBMS, OOD, Software Architecture, Cyber Security, Cloud Computing
-
----
-
-## Let’s Connect
-
-- Email: kprateek283@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/prateek-kumar-400a14257
-- GitHub: https://github.com/Kprateek283  
+**B.Tech, Computer Science & Engineering**
+Indian Institute of Information Technology, Manipur
 
 ---
 
-> I enjoy ownership-heavy roles where I can design, build, secure, and ship backend systems end-to-end.
+## Connect
+
+📧 Email: **[kprateek283@gmail.com](mailto:kprateek283@gmail.com)**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/prateek-kumar-400a14257
+
+🏆 Codeforces:
+https://codeforces.com/profile/prats2853
+
+💻 GitHub:
+https://github.com/Kprateek283
+
+---
+
+> Interested in backend engineering, distributed systems, infrastructure, Linux, and low-latency software.
